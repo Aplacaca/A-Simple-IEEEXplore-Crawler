@@ -1,10 +1,7 @@
 import requests
 import json
 import pandas as pd
-import urllib3
-import re
 import pdb
-from utils import get_title,get_abstract,get_published,get_date,get_kwd
 
 class Result(object):
     def __init__(self,config_dir=r'./search.json'):
@@ -39,18 +36,6 @@ class Result(object):
         res = requests.post(url=self.url, data=json.dumps(search), headers=self.header, verify=False)
         page_dict = res.json()
         return page_dict
-    
-    def get_article_list(self,):
-        firstpage = self.get_page(pagenum=1)
-        self.totalPages = int(firstpage["totalPages"])
-        self.totalRecords = int(firstpage["totalRecords"])
-        id_list = []  
-        for i in range(1, self.totalPages + 1):
-            page_dict = self.get_page(i)
-            for an_item in page_dict["records"]:
-                pdb.set_trace()
-                id_list.append(an_item["articleNumber"])
-        return id_list
     
     def get_article_info(self,):
         firstpage = self.get_page(pagenum=1)
