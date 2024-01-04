@@ -1,5 +1,5 @@
 import pdb
-from get_articlelist import Result
+from Result import Result
 import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)

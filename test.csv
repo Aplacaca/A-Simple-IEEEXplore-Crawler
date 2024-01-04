@@ -1,13 +1,52 @@
-,article_id
-0,9887822
-1,9771984
-2,9388935
-3,10039063
-4,10028982
-5,10333867
-6,9770199
-7,10233405
-8,9279326
-9,9417469
-10,9880751
-11,10306290
+,article_id,title,date,published_title
+0,9968194,Load Balancing of Double Queues and Utility-Workload Tradeoff in Heterogeneous Mobile Edge Computing,July 2023,IEEE Transactions on Wireless Communications
+1,9930881,AoI-Aware Scheduling for Air-Ground Collaborative Mobile Edge Computing,May 2023,IEEE Transactions on Wireless Communications
+2,9836316,Impatient Queuing for Intelligent Task Offloading in Multiaccess Edge Computing,Jan. 2023,IEEE Transactions on Wireless Communications
+3,10089407,Joint Optimization of Sensing and Computation for Status Update in Mobile Edge Computing Systems,Nov. 2023,IEEE Transactions on Wireless Communications
+4,10083212,Joint VNF Parallelization and Deployment in Mobile Edge Networks,Nov. 2023,IEEE Transactions on Wireless Communications
+5,10057219,Edge-Cloud Offloading: Knapsack Potential Game in 5G Multi-Access Edge Computing,Nov. 2023,IEEE Transactions on Wireless Communications
+6,10021296,Energy Efficient Computation Offloading in Aerial Edge Networks With Multi-Agent Cooperation,Sept. 2023,IEEE Transactions on Wireless Communications
+7,9968198,IRS Assisted NOMA Aided Mobile Edge Computing With Queue Stability: Heterogeneous Multi-Agent Reinforcement Learning,July 2023,IEEE Transactions on Wireless Communications
+8,10100681,Incentive Oriented Two-Tier Task Offloading Scheme in Marine Edge Computing Networks: A Hybrid Stackelberg-Auction Game Approach,Dec. 2023,IEEE Transactions on Wireless Communications
+9,10003256,Joint Offloading Decision and Trajectory Design for UAV-Enabled Edge Computing With Task Dependency,Aug. 2023,IEEE Transactions on Wireless Communications
+10,9850428,Reinforcement Learning Based Latency Minimization in Secure NOMA-MEC Systems With Hybrid SIC,Jan. 2023,IEEE Transactions on Wireless Communications
+11,9836031,AoI Minimization for WSN Data Collection With Periodic Updating Scheme,Jan. 2023,IEEE Transactions on Wireless Communications
+12,9919376,Resource Management and Reflection Optimization for Intelligent Reflecting Surface Assisted Multi-Access Edge Computing Using Deep Reinforcement Learning,Feb. 2023,IEEE Transactions on Wireless Communications
+13,10077512,Location Privacy-Aware and Energy-Efficient Offloading for Distributed Edge Computing,Nov. 2023,IEEE Transactions on Wireless Communications
+14,9887822,IRS-Aided Wireless Powered MEC Systems: TDMA or NOMA for Computation Offloading?,Feb. 2023,IEEE Transactions on Wireless Communications
+15,10097591,Joint Mobility Control and MEC Offloading for Hybrid Satellite-Terrestrial-Network-Enabled Robots,Nov. 2023,IEEE Transactions on Wireless Communications
+16,9893020,"Optimal Delay-Outage Analysis for Noise-Limited Wireless Networks With Caching, Computing, and Communications",Feb. 2023,IEEE Transactions on Wireless Communications
+17,9861780,Task Offloading Optimization in NOMA-Enabled Dual-Hop Mobile Edge Computing System Using Conflict Graph,Feb. 2023,IEEE Transactions on Wireless Communications
+18,10089406,Hierarchical Personalized Federated Learning Over Massive Mobile Edge Computing Networks,Nov. 2023,IEEE Transactions on Wireless Communications
+19,10106228,Communication-Computation-Aware User Association in MEC HetNets: A Meta-Analysis,Dec. 2023,IEEE Transactions on Wireless Communications
+20,10048752,Joint Task Offloading and Resource Allocation for Vehicular Edge Computing With Result Feedback Delay,Oct. 2023,IEEE Transactions on Wireless Communications
+21,9967961,Platform Profit Maximization in D2D Collaboration Based Multi-Access Edge Computing,July 2023,IEEE Transactions on Wireless Communications
+22,10051652,PHY Security Design for Mobile Crowd Computing in ICV Networks Based on Multi-Agent Reinforcement Learning,Oct. 2023,IEEE Transactions on Wireless Communications
+23,10151798,Joint Service Caching and Computing Resource Allocation for Edge Computing-Enabled Networks,Dec. 2023,IEEE Transactions on Wireless Communications
+24,10025689,Edge Video Analytics With Adaptive Information Gathering: A Deep Reinforcement Learning Approach,Sept. 2023,IEEE Transactions on Wireless Communications
+25,10058144,Energy Consumption Minimization in Secure Multi-Antenna UAV-Assisted MEC Networks With Channel Uncertainty,Nov. 2023,IEEE Transactions on Wireless Communications
+26,9892686,Joint Sensing and Communication-Rate Control for Energy Efficient Mobile Crowd Sensing,Feb. 2023,IEEE Transactions on Wireless Communications
+27,9834296,Hierarchical Federated Learning With Quantization: Convergence Analysis and System Design,Jan. 2023,IEEE Transactions on Wireless Communications
+28,10061455,Resource Optimization for Task Offloading With Real-Time Location Prediction in Pedestrian-Vehicle Interaction Scenarios,Nov. 2023,IEEE Transactions on Wireless Communications
+29,10106141,Service Satisfaction-Oriented Task Offloading and UAV Scheduling in UAV-Enabled MEC Networks,Dec. 2023,IEEE Transactions on Wireless Communications
+30,10105229,A PDDQNLP Algorithm for Energy Efficient Computation Offloading in UAV-Assisted MEC,Dec. 2023,IEEE Transactions on Wireless Communications
+31,9927216,"Joint Sensing, Communication, and Computation in Mobile Crowdsensing Enabled Edge Networks",April 2023,IEEE Transactions on Wireless Communications
+32,9904517,Coexisting Passive RIS and Active Relay-Assisted NOMA Systems,March 2023,IEEE Transactions on Wireless Communications
+33,10077515,Joint Optimization of Caching Placement and Power Allocation in Virtualized Satellite-Terrestrial Network,Nov. 2023,IEEE Transactions on Wireless Communications
+34,9896755,Active IRS Aided Multiple Access for Energy-Constrained IoT Systems,March 2023,IEEE Transactions on Wireless Communications
+35,10092450,Matching-Aided-Learning Resource Allocation for Dynamic Offloading in mmWave MEC System,Nov. 2023,IEEE Transactions on Wireless Communications
+36,10107729,Multi-Agent Reinforcement Learning Based UAV Swarm Communications Against Jamming,Dec. 2023,IEEE Transactions on Wireless Communications
+37,9999714,"Joint UAV Placement Optimization, Resource Allocation, and Computation Offloading for THz Band: A DRL Approach",July 2023,IEEE Transactions on Wireless Communications
+38,9852968,Model-Based Reinforcement Learning With Kernels for Resource Allocation in RAN Slices,Jan. 2023,IEEE Transactions on Wireless Communications
+39,10124870,Intelligent Reflecting Surface-Assisted Wireless Powered Heterogeneous Networks,Dec. 2023,IEEE Transactions on Wireless Communications
+40,9994770,Efficient Resource Allocation in Multi-UAV Assisted Vehicular Networks With Security Constraint and Attention Mechanism,July 2023,IEEE Transactions on Wireless Communications
+41,10058901,Base Station Dataset-Assisted Broadband Over-the-Air Aggregation for Communication-Efficient Federated Learning,Nov. 2023,IEEE Transactions on Wireless Communications
+42,9843917,Multiuser Co-Inference With Batch Processing Capable Edge Server,Jan. 2023,IEEE Transactions on Wireless Communications
+43,10091728,Toward Fast and Energy-Efficient Access to Cloudlets in Hostile Environments,Nov. 2023,IEEE Transactions on Wireless Communications
+44,9991976,C-RAN Zero-Forcing With Imperfect CSI: Analysis and Precode & Quantize Feedback,July 2023,IEEE Transactions on Wireless Communications
+45,10003251,Reliability-Guaranteed Uplink Resource Management in Proactive Mobile Network for Minimal Latency Communications,Aug. 2023,IEEE Transactions on Wireless Communications
+46,9957134,Joint User Scheduling and UAV Trajectory Design on Completion Time Minimization for UAV-Aided Data Collection,June 2023,IEEE Transactions on Wireless Communications
+47,9994722,Secure Transmission Design for Virtual Antenna Array-Aided Device-to-Device Multicast Communications,July 2023,IEEE Transactions on Wireless Communications
+48,10106776,Reliability-Oriented Resource Allocation for Wireless Powered Short Packet Communications With Multiple WPT Sources,Dec. 2023,IEEE Transactions on Wireless Communications
+49,10075364,Intelligent Cloud-Edge Collaborations Assisted Energy-Efficient Power Control in Heterogeneous Networks,Nov. 2023,IEEE Transactions on Wireless Communications
+50,10024772,Fully-Decoupled Radio Access Networks: A Resilient Uplink Base Stations Cooperative Reception Framework,Aug. 2023,IEEE Transactions on Wireless Communications

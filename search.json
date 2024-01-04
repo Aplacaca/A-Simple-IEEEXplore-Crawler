@@ -1,5 +1,8 @@
 {
     "newsearch": "true",
-    "queryText": "IRS-Aided Wireless Powered MEC Systems",
-    "pageNumber": "1"
+    "queryText": "Mobile Edge Computing",
+    "pageNumber": "1",
+    "rowsPerPage": "100",
+    "ranges": ["2023_2024_Year"],
+    "refinements": ["ContentType:Journals", "PublicationTitle:IEEE Transactions on Wireless Communications"]
 }
